@@ -12,3 +12,8 @@ body {
   /* hide any scroll bars that appear when something extends past the viewport */
   overflow: hidden;
 }
+
+.background-buildings {
+  width: 100%;
+  height: 100%;
+}
